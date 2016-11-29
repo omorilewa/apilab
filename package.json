@@ -1,0 +1,18 @@
+{
+  "name": "sms 101",
+  "version": "1.0.0",
+  "description": "Free sms command line application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^1.2.3",
+    "request": "^2.79.0"
+  }
+}
